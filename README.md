@@ -1,7 +1,6 @@
 Yo ! 
 I'm WAJIH , a student passionate about AI and IoT with a curiosity for all things tech.
 
-🚀 About Me 
     Currently diving deep into AI and IoT, but I’m also exploring other areas of development.
     Sharing my projects here — some are polished, some are just experiments, but all are part of the learning journey.
     Open to collaboration and always excited to contribute to cool open-source projects!
